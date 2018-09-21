@@ -2,7 +2,7 @@
 layout: default
 title: Group List
 ---
-<table>
+<table class="ui tablet stackable table">
   <thead>
     <tr>
       <th>Name</th>
@@ -32,3 +32,10 @@ title: Group List
 {% endfor %}
   </tbody>
 </table>
+
+<script>
+  $('.circular.icon.link').popup({
+    inline: true
+  });
+</script>
+
