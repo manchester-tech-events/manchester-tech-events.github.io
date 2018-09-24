@@ -1,0 +1,8 @@
+# Site settings
+title: North West Tech Events
+description: > # this means to ignore newlines until next variable
+  Tech Events in and around the Northwest.
+  A collection of groups, conferences and a calendar.
+  Created and maintained by the event organisers.
+
+google_analytics: UA-63203141-1
