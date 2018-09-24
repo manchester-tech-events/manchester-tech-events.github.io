@@ -20,14 +20,14 @@ title: Group List
 {% for conference_hash in conferences %}
 {% assign conference = conference_hash[1] %}
     <tr>
-      <td>{{ conference.name|default('WARNING: NOT SET NAME') }}</td>
-      <td>{% if conference.website|default('') != '' %}<a href="{{ conference.website }}" target="_new"><i class="circular world icon"></i></a>{% endif %}</td>
-      <td>{% if conference.twitter|default('') != '' %}<a href='https://twitter.com/{{ conference.twitter }}' target='_new'><i class="circular twitter icon"></i></a>{% endif %}</td>
-      <td>{% if conference.email|default('') != '' %}<a href='mailto:{{ conference.email }}'><i class="circular envelope icon"></i></a>{% endif %}</td>
-      <td>{% if conference.facebook|default('') != '' %}<a href='https://facebook.com/{{ conference.facebook }}' target='_new'><i class="circular facebook icon"></i></a>{% endif %}</td>
-      <td>{% if conference.description|default('') != '' %}<i class="circular info icon link" data-content="{{ conference.description }}" data-variation="very wide"></i>{% endif %}</td>
-      <td><i class="marker icon"></i>{{ conference.where|default('WARNING: NOT SET LOCATION') }}</td>
-      <td><i class="calendar icon"></i>{{ conference.when|default('WARNING: NOT SET WHEN') }}</td>
+      <td>{{ conference.name|default:'WARNING: NOT SET NAME' }}</td>
+      <td>{% if conference.website %}<a href="{{ conference.website }}" target="_new"><i class="circular world icon"></i></a>{% endif %}</td>
+      <td>{% if conference.twitter %}<a href='https://twitter.com/{{ conference.twitter }}' target='_new'><i class="circular twitter icon"></i></a>{% endif %}</td>
+      <td>{% if conference.email %}<a href='mailto:{{ conference.email }}'><i class="circular envelope icon"></i></a>{% endif %}</td>
+      <td>{% if conference.facebook %}<a href='https://facebook.com/{{ conference.facebook }}' target='_new'><i class="circular facebook icon"></i></a>{% endif %}</td>
+      <td>{% if conference.description %}<i class="circular info icon link" data-content="{{ conference.description }}" data-variation="very wide"></i>{% endif %}</td>
+      <td><i class="marker icon"></i>{{ conference.where|default:'WARNING: NOT SET LOCATION' }}</td>
+      <td><i class="calendar icon"></i>{{ conference.when|default:'WARNING: NOT SET WHEN' }}</td>
     </tr>
 {% endfor %}
   </tbody>
