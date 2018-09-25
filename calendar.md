@@ -1,5 +1,6 @@
 ---
 title: Calendar
+redirect_from: index.html
 ---
 This is a public calendar. Feel free to use! Kept up to date by the organisers of the listed events.
 
