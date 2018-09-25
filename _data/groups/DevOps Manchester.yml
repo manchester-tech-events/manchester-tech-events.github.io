@@ -1,5 +1,3 @@
----
-name: DevOps Manchester
 description: Group for people interested in, or practicing Devops.
 organiser: |-
     James Heggs
@@ -7,7 +5,7 @@ organiser: |-
 email: contact@devopsmanchester.co.uk
 where: Varies
 when: 'Every 6 weeks roughly '
-twitter: "devopsmanc"
+twitter: devopsmanc
 website: http://www.devopsmanchester.co.uk/
 advertised: |-
     Website

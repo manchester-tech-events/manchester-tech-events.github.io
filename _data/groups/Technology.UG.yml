@@ -1,5 +1,3 @@
----
-name: Technology.UG
 description: |
     An event focusing on new Technology, covering topics such as, AWS,
     DevOps, Infrastructure, and more
@@ -7,6 +5,6 @@ organiser: Gav Brining
 email: gavin.Brining@Technology.ug
 where: Doubletree Piccadilly
 when: Twice a year in March and September
-twitter: "TechUG"
+twitter: TechUG
 website: http://technology.ug/
 advertised: On website, Twitter and email

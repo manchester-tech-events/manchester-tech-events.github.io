@@ -1,12 +1,10 @@
----
-name: OWASP Manchester
-description: |-
+description: 
     Web application security meet. Security pro / software dev / newbie friendly.
     Local chapter of OWASP.org
-organiser: "OWASP MCR Team / \nStuart Walker"
-email: "owasp-manchester@lists.owasp.org / \nstuartw1@gmail.com"
+organiser: OWASP MCR Team / Stuart Walker
+email: stuartw1@gmail.com
 where: Varies
 when: Varies
-twitter: "owaspmcr"
+twitter: owaspmcr
 website: https://www.owasp.org/index.php/Manchester
 advertised: Website, twitter, mailing-list

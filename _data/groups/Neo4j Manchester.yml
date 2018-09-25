@@ -1,5 +1,3 @@
----
-name: Neo4j Manchester
 description: |
     For people interested in graphs and Neo4j. Come and learn about the
     most popular graph database of today and why graphs are great to store your data
@@ -9,6 +7,6 @@ email: m.h.needham@gmail.com
 where: ThoughtWorks Manchester, 26th Floor City Tower, Piccadilly Plaza Manchester,
     M1 4BT, Manchester
 when: Quarterly
-twitter: "neo4j"
+twitter: neo4j
 website: https://www.meetup.com/Neo4j-Manchester/
 advertised: Twitter, Meetup.com

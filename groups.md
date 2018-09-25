@@ -18,8 +18,9 @@ title: Groups
 {% assign groups = site.data.groups | sort %}
 {% for group_hash in groups %}
 {% assign group = group_hash[1] %}
+{% assign group_name = group_hash[0] | replace: '_', ' ' %}
     <tr>
-      <td>{{ group.name|default:'WARNING: NOT SET NAME' }}</td>
+      <td>{{ group_name }}</td>
       <td>{% if group.website %}<a href="{{ group.website }}" target="_new"><i class="circular world icon"></i></a>{% endif %}</td>
       <td>{% if group.twitter %}<a href='https://twitter.com/{{ group.twitter }}' target='_new'><i class="circular twitter icon"></i></a>{% endif %}</td>
       <td>{% if group.email %}<a href='mailto:{{ group.email }}'><i class="circular envelope icon"></i></a>{% endif %}</td>

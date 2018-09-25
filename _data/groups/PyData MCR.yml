@@ -1,10 +1,8 @@
----
-name: PyData MCR
 description: A meetup for Data Scientists or those interested in Data Science
 organiser: John Carney and Joseph Allen
 email: data.science.manchester@gmail.com
 where: Madlab
 when: Monthly
-twitter: "pydatamcr"
+twitter: pydatamcr
 website: https://www.meetup.com/PyData-Manchester/
 advertised: Twitter, Reddit, LinkedIn

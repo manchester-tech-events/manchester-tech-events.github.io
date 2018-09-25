@@ -1,5 +1,3 @@
----
-name: Meteor JS Manchester
 description: |
     MeteorJS is an open-source real-time Javascript web application framework
     built on top of node.js 
@@ -13,6 +11,6 @@ organiser: Azizur Rahman
 email: meteorjsman@prodevstudio.com
 where: MadLab
 when: Second Wednesday of the month, 7pm.
-twitter: "metorjsman"
+twitter: metorjsman
 website: http://manchester.meteor.com/
 advertised: Meetup, Meteor Forum, MadLab, Twitter, Word of mouth, here.

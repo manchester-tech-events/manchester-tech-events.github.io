@@ -1,5 +1,3 @@
----
-name: Leigh Hackspace Code Club
 description: |
     FREE Code Club for kids, held every Thursday at Leigh Hackspace 1800-1900,
     with 'grown-ups' Code Club immediately following 1900 till late (members only)
@@ -11,6 +9,6 @@ where: |
 when: |
     Every Thursday, 1800-1900, with 'grown-ups' Code Club immediately following
     (members only)
-twitter: "leigh_hackspace"
+twitter: leigh_hackspace
 website: http://www.meetup.com/Leigh-Hackspace/?scroll=true
 advertised: Meetup, Twitter, Facebook
