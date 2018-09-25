@@ -2,8 +2,6 @@
 <html lang="{{ site.lang | default: 'en' }}">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}{% if site.title %} - {{ site.title }}{% endif %}</title>
-{% if site.description %}    <meta name="description" content="{{ site.description }}">{% endif %}
     <meta name=viewport content="width=device-width, initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.12.2/semantic.min.css">
@@ -11,6 +9,7 @@
     <link href='//fonts.googleapis.com/css?family=Open+Sans:400,700,300&subset=latin,vietnamese' rel='stylesheet' type='text/css'>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.12.2/semantic.min.js"></script>
+{% seo %}
   </head>
   <body>
     <div class='container'>
@@ -18,8 +17,8 @@
         <div class="ui huge message">
             <h1 class="ui huge header">North West Tech Community</h1>
             <p>
-              <a class="item" href="http://twitter.com/technwuk">
-                <i class="twitter icon"></i>@technwuk
+              <a class="item" href="http://twitter.com/{{ site.twitter.username }}">
+                <i class="twitter icon"></i>@{{ site.twitter.username }}
               </a>
             </p>
         </div>
