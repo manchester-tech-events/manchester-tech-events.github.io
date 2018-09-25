@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Group List
+title: Conferences
 ---
 <table class="ui tablet stackable table">
   <thead>

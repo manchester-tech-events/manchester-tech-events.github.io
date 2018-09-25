@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Other Areas
 ---
 <table class="ui tablet stackable table">
