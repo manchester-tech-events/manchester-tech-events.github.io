@@ -1,5 +1,3 @@
----
-name: Manchester SQL Server/ Data Platform User Group
 description: |
     A Microsoft Data Platform User Group with a focus on SQL Server and
     Azure
@@ -7,6 +5,6 @@ organiser: Committee
 email: manssug@sqlpass.org
 where: Various locations city centre, Manchester
 when: variable - every 6 weeks
-twitter: "ManSSUG"
+twitter: ManSSUG
 website: http://manssug.pass.org
 advertised: Word of mouth, Web, Twitter

@@ -18,8 +18,9 @@ title: Conferences
 {% assign conferences = site.data.conferences | sort %}
 {% for conference_hash in conferences %}
 {% assign conference = conference_hash[1] %}
+{% assign conference_name = conference_hash[0] | replace: '_', ' ' %}
     <tr>
-      <td>{{ conference.name|default:'WARNING: NOT SET NAME' }}</td>
+      <td>{{ conference_name }}</td>
       <td>{% if conference.website %}<a href="{{ conference.website }}" target="_new"><i class="circular world icon"></i></a>{% endif %}</td>
       <td>{% if conference.twitter %}<a href='https://twitter.com/{{ conference.twitter }}' target='_new'><i class="circular twitter icon"></i></a>{% endif %}</td>
       <td>{% if conference.email %}<a href='mailto:{{ conference.email }}'><i class="circular envelope icon"></i></a>{% endif %}</td>

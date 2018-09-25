@@ -1,5 +1,3 @@
----
-name: Manchester Tech Nights
 description: |
     Manchester Tech Nights is a meetup aimed at Manchester's technology
     community, either the people who are making Manchester's tech scene what it is,
@@ -11,7 +9,7 @@ organiser: Chris Northwood
 email: cnorthwood@gmail.com
 where: varies
 when: 'Every other month (irregular) '
-twitter: "mcrtechnights"
+twitter: mcrtechnights
 website: http://manchestertechnights.org
 advertised: Twitter, event calendars, word of mouth, currently trying a mailing
     list

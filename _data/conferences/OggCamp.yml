@@ -1,5 +1,3 @@
----
-name: OggCamp
 description: OggCamp is an unconference celebrating Free Culture, Free and Open
     Source Software, hardware hacking, digital rights, and all manner of collaborative
     cultural activities.
@@ -7,7 +5,7 @@ organiser: Jon Spriggs for Public Software CIC
 email: oggcamp@sprig.gs
 where: Various places around the UK - this year in Sheffield.
 when: 18th/19th August 2018
-twitter: "@oggcamp"
+twitter: oggcamp
 website: https://oggcamp.org
 advertised: Website, social media, mailing lists, word of mouth, print media
 
