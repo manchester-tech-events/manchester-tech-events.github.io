@@ -21,3 +21,5 @@ plugins:
   - jekyll-redirect-from
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
