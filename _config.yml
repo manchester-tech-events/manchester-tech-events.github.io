@@ -4,5 +4,17 @@ description: > # this means to ignore newlines until next variable
   Tech Events in and around the Northwest.
   A collection of groups, conferences and a calendar.
   Created and maintained by the event organisers.
+lang: en
+author: technwuk
+twitter:
+  username: technwuk
+  card: summary
+logo: /images/bee.png
 
 google_analytics: UA-63203141-1
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
