@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Group List
+title: Groups
 ---
 <table class="ui tablet stackable table">
   <thead>

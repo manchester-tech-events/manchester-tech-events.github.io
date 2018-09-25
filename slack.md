@@ -1,6 +1,5 @@
 ---
 title: Slack Groups
-layout: default
 ---
 <div class="ui cards">
   <div class="card">
