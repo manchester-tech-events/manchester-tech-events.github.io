@@ -18,3 +18,5 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+exclude:
+  - README.md
