@@ -4,7 +4,7 @@ title: Slack Groups
 <div class="ui cards">
   <div class="card">
     <a class="image">
-      <img src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/49695/335617/ufI3IUEuNupntbL/mcrslack.png">
+      <img src="/images/mcrtech.jpg">
     </a>
     <div class="content">
       <a class="header">Attendees</a>
@@ -18,7 +18,7 @@ title: Slack Groups
 
   <div class="card">
     <a class="image">
-      <img src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/49695/335617/otIzIFz31DpAllT/mcrorganisersslack.png">
+      <img src="/images/TechNW.jpg">
     </a>
     <div class="content">
       <a class="header">Organisers</a>
