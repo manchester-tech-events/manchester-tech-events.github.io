@@ -23,7 +23,7 @@ title: Slack Groups
     <div class="content">
       <a class="header">Organisers</a>
       <div class="description">
-        Do you organise a tech event in the North West? Ask <a href='twitter.com/ruby_gem'><i class='blue twitter icon'></i>@ruby_gem</a> or <a href='twitter.com/JonTheNiceGuy'><i class='blue twitter icon'></i>@JonTheNiceGuy</a> for an invite.
+        Do you organise a tech event in the North West? Ask <a href='https://twitter.com/ruby_gem'><i class='blue twitter icon'></i>@ruby_gem</a> or <a href='https://twitter.com/JonTheNiceGuy'><i class='blue twitter icon'></i>@JonTheNiceGuy</a> for an invite.
         <div class="ui divider"></div>
         <a href="https://techeventsnw.slack.com"><i class="world icon"></i>https://techeventsnw.slack.com</a>
       </div>
