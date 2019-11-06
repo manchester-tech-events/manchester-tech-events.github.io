@@ -11,6 +11,7 @@ source: tree/master/_data/conferences
       <th><i class="envelope icon"></i></th>
       <th><i class="facebook icon"></i></th>
       <th><i class="linkedin icon"></i></th>
+      <th><i class="instagram icon"></i></th>
       <th><i class="info icon"></i></th>
       <th>Location</th>
       <th>Calendar</th>
@@ -28,6 +29,7 @@ source: tree/master/_data/conferences
       <td>{% if conference.email %}<a href='mailto:{{ conference.email }}'><i class="circular envelope icon"></i></a>{% endif %}</td>
       <td>{% if conference.facebook %}<a href='https://facebook.com/{{ conference.facebook }}' target='_new'><i class="circular facebook icon"></i></a>{% endif %}</td>
       <td>{% if conference.linkedin %}<a href='https://linkedin.com/company/{{ conference.facebook }}' target='_new'><i class="circular linkedin icon"></i></a>{% endif %}</td>
+      <td>{% if conference.instagram %}<a href='https://www.instagram.com/{{ conference.instagram }}' target='_new'><i class="circular instagram icon"></i></a>{% endif %}</td>
       <td>{% if conference.description %}<i class="circular info icon link" data-content="{{ conference.description }}" data-variation="very wide"></i>{% endif %}</td>
       <td><i class="marker icon"></i>{{ conference.where|default:'WARNING: NOT SET LOCATION' }}</td>
       <td><i class="calendar icon"></i>{{ conference.when|default:'WARNING: NOT SET WHEN' }}</td>
