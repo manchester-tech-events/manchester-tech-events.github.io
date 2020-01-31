@@ -2,6 +2,7 @@
 title: Conferences
 source: tree/master/_data/conferences
 ---
+
 <table class="ui tablet stackable table">
   <thead>
     <tr>

@@ -2,6 +2,7 @@
 title: Other Areas
 source: tree/master/_data/elsewhere
 ---
+
 <table class="ui tablet stackable table">
   <thead>
     <tr>

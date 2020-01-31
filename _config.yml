@@ -1,26 +1,31 @@
-# Site settings
+---
 title: North West Tech Events
-description: > # this means to ignore newlines until next variable
-  Tech Events in and around the Northwest.
-  A collection of groups, conferences and a calendar.
-  Created and maintained by the event organisers.
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 'Tech Events in and around the Northwest. A collection of groups, conferences
+  and a calendar. Created and maintained by the event organisers.
+
+'
 lang: en
 author: technwuk
 twitter:
   username: technwuk
   card: summary
-logo: /images/bee.png
-
+logo: "/images/bee.png"
 google_analytics: UA-63203141-1
-
-# Build settings
 markdown: kramdown
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-redirect-from
-  - jekyll-github-metadata
+- jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-github-metadata
 exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
+- README.md
+- Gemfile
+- Gemfile.lock

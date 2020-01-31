@@ -1,6 +1,7 @@
 ---
 title: Slack Groups
 ---
+
 <div class="ui cards">
   <div class="card">
     <a class="image">
