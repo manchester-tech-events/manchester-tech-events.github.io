@@ -3,7 +3,6 @@ title: Groups
 icon_source: https://semantic-ui.com/elements/icon.html
 source: tree/master/_data/groups
 ---
-
 <table class="ui tablet stackable table">
   <thead>
     <tr>

@@ -1,7 +1,6 @@
 ---
 title: Add yourself to the speakers directory
 ---
-
 # Add yourself to the speakers directory
 Thought of speaking at one of the groups or conferences? Get yourself on the list of speakers!
 

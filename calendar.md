@@ -2,7 +2,6 @@
 title: Calendar
 redirect_from: index.html
 ---
-
 This is a public calendar. Feel free to use! Kept up to date by the organisers of the listed events.
 
 <a href="https://www.google.com/calendar/ical/a73q3trj8bssqjifgolb1q8fr4%40group.calendar.google.com/public/basic.ics" target="_blank"><i class="calendar plus outline icon" data-content="Add the ical Calendar Feed to your own calendar." data-variation="very wide"></i></a>
