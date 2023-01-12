@@ -11,7 +11,7 @@ title: Slack Groups
       <div class="description">
         Open to all to join! You don't even have to attend one of the events. Come along and say hi! Network without leaving your chair!
         <div class="ui divider"></div>
-        <a href="http://mcrtech-slack.herokuapp.com/"><i class="world icon"></i>http://mcrtech-slack.herokuapp.com/</a>
+        <a href="https://mcrtech.github.io/"><i class="world icon"></i>https://mcrtech.github.io/</a>
       </div>
     </div>
   </div>
